@@ -1,5 +1,5 @@
 {
-  "name": "npm-install",
+  "name": "npm-installer",
   "version": "0.0.0",
   "description": "install a package as if you were npm",
   "main": "index.js",
@@ -8,12 +8,11 @@
   },
   "dependencies": {
     "npm": "~1.3.11",
-    "npmconf": "~0.1.3",
-    "nopt": "~2.1.2"
+    "npmconf": "~0.1.3"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mcwhittemore/npm-install.git"
+    "url": "git://github.com/mcwhittemore/npm-installer.git"
   },
   "keywords": [
     "npm",

@@ -1,11 +1,11 @@
-# NPM-INSTALL
+# NPM INSTALLER
 
 A simple module to let your module install modules like it was npm.
 
 ## Usage
 
 ```
-var npmInstall = require("npm-install");
+var npmInstall = require("npm-installer");
 npmInstall("./test/test-valid/", function(err, data) {
 	console.log(data);
 });
