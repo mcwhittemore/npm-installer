@@ -1,6 +1,6 @@
 {
   "name": "npm-installer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "install a package as if you were npm",
   "main": "index.js",
   "scripts": {

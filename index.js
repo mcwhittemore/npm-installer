@@ -20,6 +20,8 @@ module.exports = function(module, callback) {
         return result;
     }
 
+    conf.production = true;
+
     npm.load(conf, function(er) {
         if (er) {
             console.log("LOAD ERR", er);
